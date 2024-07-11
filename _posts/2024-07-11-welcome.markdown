@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "Welcome to Django Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2024-07-11 17:02:00
+author:     "Django"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+Django 的 Blog 就这么开通了。
+
+欢迎你，我的朋友。
