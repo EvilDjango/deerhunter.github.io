@@ -2,7 +2,7 @@
 layout:     post
 title:      "Welcome to Django Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2024-07-11 17:02:00
+date:       2024-07-11
 author:     "Django"
 header-img: "img/post-bg-2015.jpg"
 tags:
